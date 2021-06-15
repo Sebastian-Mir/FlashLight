@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Light App</string>
+    <string name="turn_on_text">Press the image to turn ON the light</string>
+    <string name="turn_off_text">Press the image to turn OFF the light</string>
+</resources>
